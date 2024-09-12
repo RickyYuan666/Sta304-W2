@@ -1,0 +1,7 @@
+---
+title: "Welcome to my site"
+
+---
+
+I am the student in University of Toronto. My major are STA and MAT.
+
